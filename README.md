@@ -8,7 +8,7 @@
  
 | Archivo | Descripción | Fecha |
 |--------|-------------|-------|
-| [Reporte_Tratchun _Artificial.pbix](Reporte Tratchun Artificial.pbix) | Reporte principal con análisis de datos de Tratchun | 2025 |
+| [Reporte Artificial](Reporte_Tratchun _Artificial.pbix) | Reporte de Tickets del Año 2019 a 2023 | 2025 |
  
 ---
  
