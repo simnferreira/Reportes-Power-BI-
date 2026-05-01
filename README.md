@@ -1,4 +1,4 @@
-# 📊 Reportes Power BI — Empresa Tratchun
+# 📊 Reportes Power BI — Empresa Tractchun
  
 > Repositorio de reportes analíticos desarrollados con Power BI Desktop, basados en datos ficticios de la empresa **Tractchun** como parte de un curso de análisis de datos.
  
