@@ -9,7 +9,6 @@
 | Archivo | Descripción | Fecha |
 |--------|-------------|-------|
 | [Reporte Artificial Tractchun](Reporte_Tratchun_Artificial.pbix) | Reporte de Tickets del Año 2019 a 2023 | 2026 |
-|--------|-------------|-------|
 | [Reporte Artificial Curso](Proyecto_Curso.pbix) | Reporte de Ventas. | 2026 |
  
 ---
