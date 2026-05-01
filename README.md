@@ -8,7 +8,7 @@
  
 | Archivo | Descripción | Fecha |
 |--------|-------------|-------|
-| [Reporte_Tratchun_Artificial.pbix](Reporte_Tratchun_Artificial.pbix) | Reporte principal con análisis de datos de Tratchun | 2025 |
+| [Reporte Tratchun Artificial.pbix](Reporte_Tratchun_Artificial.pbix) | Reporte principal con análisis de datos de Tratchun | 2025 |
  
 ---
  
